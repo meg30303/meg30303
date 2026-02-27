@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rose_pine&hide_border=true" />
-</p>
 
 ---
 
