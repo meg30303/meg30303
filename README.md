@@ -1,8 +1,5 @@
 # ✨ Hi, I'm Meghana 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&duration=3000&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Creative+UI%2FUX+Designer+%F0%9F%8E%A8;Building+Beautiful+Web+Experiences+%E2%9C%A8" />
-</p>
 
 ---
 
@@ -57,26 +54,14 @@
 
 ---
 
-## 🎨 Featured Projects
 
-🌸 **Pixel Café Pomodoro**
-A cute pixel-art themed Pomodoro timer built with HTML, CSS, and JavaScript.
-
-🎬 **CineVerse**
-A cinematic movie website focused on modern layouts, interactive cards, and visual storytelling.
-
-🌍 **Tourism in India**
-A responsive tourism website featuring destinations with aesthetic card-based layouts.
-
-🌱 **Pixel Plant**
-A playful interactive plant card created using HTML and CSS.
 
 ---
 
 ## 📬 Let's Connect
 
-💼 LinkedIn: https://linkedin.com/in/yourlinkedin
-📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/meghana-m-ise/
+📧 Email: meghs3030@gmail.com
 
 ---
 
